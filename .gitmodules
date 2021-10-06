@@ -1,0 +1,3 @@
+[submodule "Git-Module"]
+	path = Git-Module
+	url = https://github.com/G-Okumu/Git-Module.git
