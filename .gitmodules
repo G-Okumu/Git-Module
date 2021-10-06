@@ -10,3 +10,6 @@
 [submodule "GeBoo"]
 	path = GeBoo
 	url = https://github.com/G-Okumu/Git-Module.git
+[submodule "rock"]
+	path = rock
+	url = https://github.com/G-Okumu/Git-Module.git
