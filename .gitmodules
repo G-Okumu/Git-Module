@@ -4,3 +4,6 @@
 [submodule "George-Repo"]
 	path = George-Repo
 	url = https://github.com/G-Okumu/Git-Module.git
+[submodule "GeoBe"]
+	path = GeoBe
+	url = https://github.com/G-Okumu/Git-Module
